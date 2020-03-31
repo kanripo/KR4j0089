@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 御定曲譜
-#+DATE: 2020-03-31 11:43:06.239470
+#+DATE: 2020-03-31 11:43:06.498821
 #+PROPERTY: ID KR4j0089
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4j0089_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -135,7 +135,7 @@
 棄甲(韻)縱轡加鞭催戰馬(韻恨不的)翦斷紫梢(句)踏斜¶
 寶鐙(句)頓覺玉勒(句)擺損金萴(韻)¶
 ¶
-　　(兢兢舊譜譌作競競犯字無去聲又閉口音應標圈衝字舊譜譌作充鐙字譌作&KR0817;)¶
+　　(兢兢舊譜譌作競競犯字無去聲又閉口音應標圈衝字舊譜譌作充鐙字譌作鐙)¶
 ¶
 　　鄆州春　　　　　　　　　　　王伯成(天寳遺事)¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 御定曲譜
-#+DATE: 2020-03-31 11:43:06.225325
+#+DATE: 2020-03-31 11:43:06.483985
 #+PROPERTY: ID KR4j0089
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4j0089_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -742,7 +742,7 @@
 鳴(韻)¶
 ¶
 <pb:KR4j0089_WYG_007-28a>¶
-　　(寒字非閉口音淡字乃閉口音&KR0199;譜反之誤)¶
+　　(寒字非閉口音淡字乃閉口音舊譜反之誤)¶
 ¶
 ¶
 ¶
